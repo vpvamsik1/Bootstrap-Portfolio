@@ -1,0 +1,28 @@
+.alert-danger {
+    background-color: red;
+    margin: 0px;
+    border-radius: 0px;
+    border: 0px;
+}
+
+.alert {
+    padding: 0px;
+    margin: 0px;
+}
+.contain {
+    background-color: #1242A8;
+    width: 100%;
+}
+img {
+    padding:0px;
+    width:100px;
+}
+.float-left {
+    width:172px;
+}
+.float-right {
+    width: 172px;
+}
+.trump {
+    text-align: center;
+}
